@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fix Audio Arch Linux XFCE4"
+title:  "Fix Audio Arch Linux"
 date:   2021-10-29 21:19:45 +0700
 categories:
 ---
