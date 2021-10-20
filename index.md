@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Selamat datang di tulisan ngawur saya
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Ini adalah blog untuk nulis-nulis random aja, ngga ada tujuan juga sih.
