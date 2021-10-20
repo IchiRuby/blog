@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fix Wifi Icon Arch Linux XFCE4"
+title:  "Fix Wifi Arch Linux"
 date:   2019-11-06 21:01:23 +0100
 categories:
 ---
