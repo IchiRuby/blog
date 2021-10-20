@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Dear morons..."
-date:   2018-11-04 12:32:45 +0100
+title:  "Coba Install Arch Linux"
+date:   2021-10-20 12:32:45 +0100
 categories:
 ---
 
