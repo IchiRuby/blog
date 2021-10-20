@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fix Wifi Arch Linux"
-date:   2019-11-06 21:01:23 +0100
+date:   2021-10-20 21:01:23 +0100
 categories:
 ---
 
