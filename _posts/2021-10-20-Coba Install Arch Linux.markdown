@@ -7,32 +7,17 @@ categories:
 
 # CARA INSTALL ARCH LINUX VERSI SAYA
 
-Download iso dulu sih kek biasa
+- Download iso dulu sih kek biasa
 
-dsadsaad
-sda
+<div style="background-color: #2c323c; border-radius: 0 10px 0 10px; padding: 17px; text-align: left;">
+$ sudo apt update , test script box
+</div>
+
+dsadsadsasda
+dsadsadsasda
+dsasdasdasda
 sdasda
-sd
-das
-dsa
-dsa
-
-dsa
-dsa
-dsa
-d
-sa
-ds
-ads
-ds
-ad
-sa
-ds
-ad
-dsa
-dsa
-d
-sa
-dsa
-d
-sa
+sda
+sda
+sda
+sda
