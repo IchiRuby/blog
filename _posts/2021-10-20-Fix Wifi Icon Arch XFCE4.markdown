@@ -8,11 +8,11 @@ categories:
 
 # Fix Wifi Icon Arch Linux de:XFCE4
 
-installasi wifi dan icon wifi pada xfce4
+#installasi wifi dan icon wifi pada xfce4
 ~:sudo pacman -S networkmanager network-manager-applet xfce4-notifyd gnome-keyring
 
-aktifkan servicenya & start service
+#aktifkan servicenya & start service
 ~:systemctl enable NetworkManager.service
 ~:systemctl start NetworkManager.service
 
-reboot system kembali, done
+#reboot system kembali, done
