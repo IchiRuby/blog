@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Syntax highlighting"
+title:  "Fix Wifi Icon Arch Linux XFCE4"
 date:   2019-11-06 21:01:23 +0100
 categories:
 ---
