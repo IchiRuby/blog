@@ -1,7 +1,7 @@
 ---
-title: /
+title: /home
 layout: home
-permalink: home
+permalink: /home
 ---
 
 # Selamat datang di tulisan ngawur saya
