@@ -2,7 +2,7 @@
 layout: post
 title:  "Coba Install Arch Linux"
 date:   2021-10-20 20:01:54 +0700
-categories: Linux
+categories: 
 ---
 
 # Catatan, pas cobain install arch linux
