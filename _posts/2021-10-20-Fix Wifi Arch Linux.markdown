@@ -16,3 +16,5 @@ categories:
 ~:systemctl start NetworkManager.service
 
 #reboot system kembali, done
+
+Note: Jika masih belum fix juga, coba install driver "broadcom-wl", sekian.
