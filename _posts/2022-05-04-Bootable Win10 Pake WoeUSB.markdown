@@ -9,17 +9,17 @@ categories:
 
 biar GUI ya ges yak.
 
-# pake git dulu, sumber clone => https://aur.archlinux.org/packages/woeusb
+#pake git dulu, sumber clone => https://aur.archlinux.org/packages/woeusb
 
-# kalo uda diclone, masuk ke-dir
+#kalo uda diclone, masuk ke-dir
 
 ~: cd woeusb
 
-# lalu build pkgnya
+#lalu build pkgnya
 
 ~: makepkg -si
 
-# output :
+#output :
 
 ==> Making package: woeusb 5.2.4-1 (Wed 04 May 2022 07:51:18 AM WIB)
 ==> Checking runtime dependencies...
@@ -73,4 +73,4 @@ Net Upgrade Size:      0.00 MiB
 (1/1) Arming ConditionNeedsUpdate...
 
 
-# tinggal install kek pake rufus. sekian.
+#tinggal install kek pake rufus. sekian.
