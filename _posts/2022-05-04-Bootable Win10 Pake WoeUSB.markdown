@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coba Install Arch Linux"
+title:  "Bootable Win10 Pake WOEUSB Dari Linux"
 date:   2022-05-04 08:01:54 +0700
 categories: 
 ---
